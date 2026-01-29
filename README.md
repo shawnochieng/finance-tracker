@@ -35,6 +35,7 @@ pipenv shell
 
 ## Running the CLI
 ```console
+cd lib
 python cli.py
 ```
 
